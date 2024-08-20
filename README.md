@@ -10,6 +10,7 @@ This project aims to segment customers using a clustering prediction algorithm. 
 - **Customer Segmentation**: Uses clustering algorithms to categorize customers based on their behaviors.
 - **Business Insights**: Provides answers to key business questions based on the analysis conducted in the Jupyter notebook.
 - **Web Application**: An interactive web app built with Streamlit to enter customer data, identify customer groups, and explore various functionalities.
+![Screenshot]{https://github.com/kudikala-sahasra/Customer-Segmentation-Project/blob/main/Screenshot%202024-08-20%20220344.png)
 
 
 ## Functionalities
